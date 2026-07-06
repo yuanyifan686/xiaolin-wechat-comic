@@ -1,4 +1,4 @@
-# wechat-comic-factory
+# 六阶段微信全自动漫画生产流水线
 
 `wechat-comic-factory` 是一个面向 OpenClaw 的微信公众号漫画工厂技能包。用户输入漫画类型、主题和数量后，技能会调用本地 Python 流水线，自动完成：
 
