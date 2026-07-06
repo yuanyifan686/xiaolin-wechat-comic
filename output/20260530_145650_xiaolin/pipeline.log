@@ -1,0 +1,7 @@
+2026-05-30 14:56:50 [INFO] 开始执行完整流水线 comic_type=小林漫画 topic=解决也需要一点喘息 count=1 skip_publish=False
+2026-05-30 14:56:50 [INFO] 开始规划漫画：type=小林漫画 topic=解决也需要一点喘息 count=1
+2026-05-30 14:56:52 [INFO] 文本模型返回成功，开始清洗 JSON
+2026-05-30 14:56:52 [INFO] 漫画规划完成，plan_path=C:\Users\a\.openclaw\skills\xiaolin\output\20260530_145650_xiaolin\plan.json
+2026-05-30 14:56:52 [INFO] 开始生成图片 index=1 prompt=小林漫画风格，水彩简笔画，治愈留白。一个都市成年人坐在公园长椅上，背靠大树，微仰头闭眼深呼吸。周围有落叶和淡淡阳光，整体色调柔和温暖，画面空旷有呼吸感。
+2026-05-30 14:56:52 [INFO] 提交 DashScope 生图任务，model=wanx-v1 family=legacy endpoint=/services/aigc/text2image/image-synthesis
+2026-05-30 14:56:52 [WARNING] 请求失败 stage=image_llm attempt=1 status=403 url=https://dashscope.aliyuncs.com/api/v1/services/aigc/text2image/image-synthesis body={"code":"AccessDenied.Unpurchased","message":"Access to model denied. Please make sure you are eligible for using the model.","request_id":"ed2973ca-9ea8-99e5-8ca4-cbe8bce6ef31"}

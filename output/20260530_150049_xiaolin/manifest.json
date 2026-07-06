@@ -1,0 +1,19 @@
+{
+  "comic_type": "小林漫画",
+  "topic": "解决也需要一点喘息",
+  "title": "别急，让答案喘口气",
+  "intro": "人生不是冲刺，偶尔停下来，才是最好的解决。",
+  "ending": "有时候，最好的解决就是暂停。",
+  "images": [
+    {
+      "index": 1,
+      "image_prompt": "小林漫画风格，水彩简笔画，都市背景，一位年轻女性坐在公园长椅上，闭着眼微微仰头，阳光透过树叶洒在脸上，周围有绿树和淡淡光影，留白多，治愈感强，画面简洁，无文字。",
+      "caption": "解决之前，先让心喘口气。",
+      "image_path": "images/01.png",
+      "raw_image_path": "raw_images/01.png",
+      "task_id": "e576124f-96ad-4621-86e6-aeb24825875e",
+      "image_url": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/1d/c5/20260530/c70535fc/e4168a02-59f4-401d-8aa1-5d4939b8873b-1.png?Expires=1780210882&OSSAccessKeyId=STS.NYjiNsZTnn5NxDrjGDGPag55x&Signature=SeDLYdCbhZIwQZKd0rrgJVSKa8s%3D&security-token=CAIS0QJ1q6Ft5B2yfSjIr5rfIvTHt4tP2felemLDjkcRS99NiPCemjz2IHhMeXFoBO8fsf8%2Bnm9S7%2F0flrp6SJtIXleCZtF94oxN9h2gb4fb40oIcC2L08%2FLI3OaLjKm9u2wCryLYbGwU%2FOpbE%2B%2B5U0X6LDmdDKkckW4OJmS8%2FBOZcgWWQ%2FKBlgvRq0hRG1YpdQdKGHaONu0LxfumRCwNkdzvRdmgm4NgsbWgO%2Fks0SD0gall7ZO%2FNiqfcL%2FMvMBZskvD42Hu8VtbbfE3SJq7BxHybx7lqQs%2B02c5onAWwEMvEzZaLuOrYc2d1JjG68iFqhBrf7w0PJxpuHMnpWy0wxKMfGOwYkswiYwqiGtN5RKVr5RHd6TUxxGws9XIT7uuEri7Sau%2BL%2Fuv371Nj4pbzJlIxqBEfSs42vhaQzYQLPO25pbv9cLiTuhk7WET9ql4WzCuU5wGoABQ2bWqI24EhSqoOhCNDuh9rVvcijSMNkI%2FoAo5RUtJhLk3TE%2B87DuFHZqVac%2BAZuCJdlEznvNqyPfgoAQdYEYrrrDMJ0dr1X%2F%2FB%2FrsuQB3XoURc6%2BEx9nz9IwnzDgFqWesWHXcd5UpsF3uYEfr9ZqBDIm%2BOXz4qU1pfjAu1u%2FR3cgAA%3D%3D",
+      "font_used": "C:\\Windows\\Fonts\\simhei.ttf"
+    }
+  ]
+}

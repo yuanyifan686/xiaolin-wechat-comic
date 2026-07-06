@@ -1,0 +1,28 @@
+{
+  "success": false,
+  "comic_type": "小林漫画",
+  "topic": "解决也需要一点喘息",
+  "count": 1,
+  "title": "累了，就先歇会儿吧",
+  "output_dir": "C:\\Users\\a\\.openclaw\\skills\\xiaolin\\output\\20260530_145839_xiaolin",
+  "stage": "html_failed",
+  "draft_status": "failed",
+  "draft_id": null,
+  "error": "微信 access_token 获取失败: errcode=40164 (请将当前出口 IP 加入微信公众号后台的接口 IP 白名单后重试。)",
+  "created_at": "2026-05-30T14:58:39+08:00",
+  "plan_path": "C:\\Users\\a\\.openclaw\\skills\\xiaolin\\output\\20260530_145839_xiaolin\\plan.json",
+  "manifest_path": "C:\\Users\\a\\.openclaw\\skills\\xiaolin\\output\\20260530_145839_xiaolin\\manifest.json",
+  "md_path": "C:\\Users\\a\\.openclaw\\skills\\xiaolin\\output\\20260530_145839_xiaolin\\article.md",
+  "assets_path": "C:\\Users\\a\\.openclaw\\skills\\xiaolin\\output\\20260530_145839_xiaolin\\publish_assets.json",
+  "html_path": "C:\\Users\\a\\.openclaw\\skills\\xiaolin\\output\\20260530_145839_xiaolin\\final.html",
+  "error_details": {
+    "stage": "wechat_token",
+    "message": "微信 access_token 获取失败: errcode=40164",
+    "hint": "请将当前出口 IP 加入微信公众号后台的接口 IP 白名单后重试。",
+    "details": {
+      "errcode": 40164,
+      "errmsg": "invalid ip 171.212.165.117 ipv6 ::ffff:171.212.165.117, not in whitelist rid: 6a1a8acd-78319cde-629462fb"
+    }
+  },
+  "task_result_path": "C:\\Users\\a\\.openclaw\\skills\\xiaolin\\output\\20260530_145839_xiaolin\\task_result.json"
+}

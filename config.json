@@ -1,0 +1,36 @@
+{
+  "text_llm": {
+    "provider": "deepseek",
+    "model": "deepseek-chat",
+    "api_key": "sk-969a76c1308a456cb0c8f9572a83f3a3",
+    "base_url": "https://api.deepseek.com"
+  },
+  "image_llm": {
+    "provider": "qwen",
+    "model": "wanx-v1",
+    "api_key": "sk-00178f052ec24fd29568e4c75d31e339",
+    "base_url": "https://dashscope.aliyuncs.com/api/v1"
+  },
+  "wechat": {
+    "appid": "wx4d9668e9d3878ef6",
+    "appsecret": "cadf1a36fc9d7e9c76e87026141e5077"
+  },
+  "defaults": {
+    "default_count": 3,
+    "image_width": 1024,
+    "image_height": 1024,
+    "output_dir": "./output",
+    "font_path": "./fonts/custom-font.ttf",
+    "publisher_name": "快刀AI学堂",
+    "publisher_tagline": "AI 内容生产、提示词创作与公众号排版",
+    "cover_width": 900,
+    "cover_height": 500,
+    "cover_max_kb": 64,
+    "caption_font_size": 34,
+    "caption_line_spacing": 12,
+    "caption_padding_x": 42,
+    "caption_padding_y": 30,
+    "dashscope_poll_interval": 10,
+    "dashscope_timeout_seconds": 300
+  }
+}

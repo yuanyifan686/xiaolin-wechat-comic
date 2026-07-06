@@ -1,0 +1,16 @@
+2026-05-30 14:58:39 [INFO] 开始执行完整流水线 comic_type=小林漫画 topic=解决也需要一点喘息 count=1 skip_publish=False
+2026-05-30 14:58:39 [INFO] 开始规划漫画：type=小林漫画 topic=解决也需要一点喘息 count=1
+2026-05-30 14:58:40 [INFO] 文本模型返回成功，开始清洗 JSON
+2026-05-30 14:58:40 [INFO] 漫画规划完成，plan_path=C:\Users\a\.openclaw\skills\xiaolin\output\20260530_145839_xiaolin\plan.json
+2026-05-30 14:58:40 [INFO] 开始生成图片 index=1 prompt=小林漫画风格，水彩简笔，治愈，留白。一个都市成年人靠在沙发上，闭眼休息，周围有淡淡的暖色光晕，桌上放着一杯热茶，窗外是朦胧的夜景，整体氛围放松宁静，公众号配图感。
+2026-05-30 14:58:40 [INFO] 提交 DashScope 生图任务，model=wanx-v1 family=legacy endpoint=/services/aigc/text2image/image-synthesis
+2026-05-30 14:58:41 [INFO] DashScope 任务轮询 task_id=1dfcdb99-7b2e-4c3a-8b2d-f188ca5f6f16 status=RUNNING
+2026-05-30 14:58:51 [INFO] DashScope 任务轮询 task_id=1dfcdb99-7b2e-4c3a-8b2d-f188ca5f6f16 status=RUNNING
+2026-05-30 14:59:01 [INFO] DashScope 任务轮询 task_id=1dfcdb99-7b2e-4c3a-8b2d-f188ca5f6f16 status=RUNNING
+2026-05-30 14:59:12 [INFO] DashScope 任务轮询 task_id=1dfcdb99-7b2e-4c3a-8b2d-f188ca5f6f16 status=RUNNING
+2026-05-30 14:59:22 [INFO] DashScope 任务轮询 task_id=1dfcdb99-7b2e-4c3a-8b2d-f188ca5f6f16 status=SUCCEEDED
+2026-05-30 14:59:23 [INFO] 叠字完成，font=C:\Windows\Fonts\simhei.ttf image=C:\Users\a\.openclaw\skills\xiaolin\output\20260530_145839_xiaolin\images\01.png
+2026-05-30 14:59:23 [INFO] 漫画图片生成完成，manifest_path=C:\Users\a\.openclaw\skills\xiaolin\output\20260530_145839_xiaolin\manifest.json
+2026-05-30 14:59:23 [INFO] Markdown 文章已生成，md_path=C:\Users\a\.openclaw\skills\xiaolin\output\20260530_145839_xiaolin\article.md
+2026-05-30 14:59:23 [INFO] 封面图压缩完成，size_kb=62.07
+2026-05-30 14:59:23 [INFO] 发布素材信息已写入，assets_path=C:\Users\a\.openclaw\skills\xiaolin\output\20260530_145839_xiaolin\publish_assets.json
